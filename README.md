@@ -122,28 +122,6 @@ Used **DAX measures** for:
 
 ---
 
-## 📁 Project Structure  
-
-```
-Customer-Shopping-Behavior-Analysis/
-│
-├── data/
-│   └── customer_shopping_behavior.csv
-│
-├── sql/
-│   └── analysis_queries.sql
-│
-├── notebooks/
-│   └── eda_analysis.ipynb
-│
-├── powerbi/
-│   └── dashboard.pbix
-│
-└── README.md
-```
-
----
-
 ## 🏁 Conclusion  
 
 This project demonstrates end-to-end data analysis — from raw data cleaning to advanced dashboard visualization — using industry-standard tools.
