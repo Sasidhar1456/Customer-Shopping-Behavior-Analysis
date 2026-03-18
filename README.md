@@ -1,4 +1,7 @@
-# 🛍️ Customer Shopping Behavior Analysis  
+# 🛍️ Customer Shopping Behavior Analysis 
+
+## 📌 Dashboard
+![Alt Text](https://github.com/Sasidhar1456/Customer-Shopping-Behavior-Analysis/blob/853c09f1c3685abc40337c691cfdd3b2391bb791/Customer%20Shopping%20Behavior%20Analysis.png)
 
 ## 📌 Project Overview  
 
