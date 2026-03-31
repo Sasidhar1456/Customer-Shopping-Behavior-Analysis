@@ -1,5 +1,19 @@
 # Customer Shopping Behavior Analysis 
 
+## Project Structure
+
+- **Customer Shopping Behavior Analysis.docx**  
+  Contains detailed insights and business recommendations based on the analysis.
+
+- **Customer Shopping Behavior Analysis.pbix**  
+  Includes the Power BI dashboard for visualizing customer shopping behavior.
+
+- **Customer_Shopping_Behavior_Analysis.ipynb**  
+  Contains Python code for data cleaning, preprocessing, and analysis.
+
+- **customer_shopping_behavior.csv**  
+  The dataset used for performing the analysis.
+
 ## Dashboard
 ![Alt Text](https://github.com/Sasidhar1456/Customer-Shopping-Behavior-Analysis/blob/853c09f1c3685abc40337c691cfdd3b2391bb791/Customer%20Shopping%20Behavior%20Analysis.png)
 
