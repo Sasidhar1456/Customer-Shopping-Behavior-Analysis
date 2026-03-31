@@ -1,9 +1,9 @@
-# 🛍️ Customer Shopping Behavior Analysis 
+# Customer Shopping Behavior Analysis 
 
-## 📌 Dashboard
+## Dashboard
 ![Alt Text](https://github.com/Sasidhar1456/Customer-Shopping-Behavior-Analysis/blob/853c09f1c3685abc40337c691cfdd3b2391bb791/Customer%20Shopping%20Behavior%20Analysis.png)
 
-## 📌 Project Overview  
+## Project Overview  
 
 This project analyzes customer shopping behavior using **Python, SQL, and Power BI** to uncover revenue trends, customer segmentation patterns, and key business insights from **3,900+ transactions**.
 
@@ -11,7 +11,7 @@ The goal is to transform raw transactional data into actionable insights through
 
 ---
 
-## 🚀 Tech Stack  
+## Tech Stack  
 
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn)
 - **SQL** (Joins, Aggregations, Group By, Subqueries)
@@ -20,7 +20,7 @@ The goal is to transform raw transactional data into actionable insights through
 
 ---
 
-## 📂 Dataset  
+## Dataset  
 
 - Customer transaction data  
 - 3,900+ records  
@@ -34,7 +34,7 @@ The goal is to transform raw transactional data into actionable insights through
 
 ---
 
-## 🔎 Project Workflow  
+## Project Workflow  
 
 ### 1️⃣ Data Cleaning & Preprocessing (Python)
 - Removed duplicates and null values  
@@ -92,11 +92,11 @@ print("Total Revenue:", total_revenue)
 ### 5️⃣ Power BI Dashboard
 Created interactive dashboards with:
 
-- 📊 Revenue KPI Cards  
-- 📈 Monthly Sales Trend  
-- 🛒 Category-wise Performance  
-- 👥 Customer Segmentation  
-- 💳 Payment Method Distribution  
+- Revenue KPI Cards  
+- Monthly Sales Trend  
+- Category-wise Performance  
+- Customer Segmentation  
+- Payment Method Distribution  
 
 Used **DAX measures** for:
 - Total Revenue  
@@ -106,7 +106,7 @@ Used **DAX measures** for:
 
 ---
 
-## 📊 Key Insights  
+## Key Insights  
 
 - Identified highest revenue-generating product categories  
 - Discovered seasonal revenue patterns  
@@ -116,7 +116,7 @@ Used **DAX measures** for:
 
 ---
 
-## 💡 Business Impact  
+## Business Impact  
 
 - Helps in targeted marketing campaigns  
 - Supports inventory planning  
@@ -125,7 +125,7 @@ Used **DAX measures** for:
 
 ---
 
-## 🏁 Conclusion  
+## Conclusion  
 
 This project demonstrates end-to-end data analysis — from raw data cleaning to advanced dashboard visualization — using industry-standard tools.
 
